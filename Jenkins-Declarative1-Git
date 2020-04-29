@@ -1,3 +1,5 @@
+currentBuild.displayName="SaiBuild-#"+currentBuild.number
+
 pipeline{
     agent any
     environment{
